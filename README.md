@@ -1,4 +1,4 @@
-![logo](https://github.com/Atish-Sonawane/Atish-Sonawane/blob/main/banner%20new.png)
+![logo](https://github.com/Atish-Sonawane/Atish-Sonawane/blob/main/QA-banner.jpg)
 <h1 align="center">Hi 👋, I'm Atish Sonawane</h1>
 <h3 align="center">A passionate Software Engineer in Test</h3>
 
