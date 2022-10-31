@@ -1,6 +1,6 @@
 ![logo](https://github.com/Atish-Sonawane/Atish-Sonawane/blob/main/QA-banner.jpg)
 <h1 align="center">Hi 👋, I'm Atish Sonawane</h1>
-<h3 align="center">A passionate Software Engineer in Test</h3>
+<h3 align="center">A passionate Software Development Engineer in Test</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atish-sonawane&label=Profile%20views&color=0e75b6&style=flat" alt="atish-sonawane" /> </p>
 
